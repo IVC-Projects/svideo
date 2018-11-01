@@ -5,6 +5,8 @@ Hangzhou Normal University and Google Inc.
 
 Approach
 ===
+###Text description will be supplemented as soon as possible<br>
+---
 ![](https://github.com/IVC-Projects/svideo/raw/master/figures/fig1.png)<br>
 ![](https://github.com/IVC-Projects/svideo/raw/master/figures/fig2.png)<br>
 ![](https://github.com/IVC-Projects/svideo/raw/master/figures/fig6.png)<br>
